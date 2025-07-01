@@ -1,3 +1,5 @@
+import ProductCard from "./componets/ProductCard"
+
 
 
 function App() {
@@ -5,6 +7,7 @@ function App() {
 
   return (
     <>
+      <ProductCard />
 
     </>
   )
