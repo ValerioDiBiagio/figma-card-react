@@ -1,7 +1,5 @@
 import ProductCard from "./componets/ProductCard"
 
-
-
 function App() {
 
 
