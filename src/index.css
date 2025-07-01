@@ -1,0 +1,13 @@
+#root {
+    font-family: "Roboto", sans-serif;
+}
+
+p {
+    font-size: 14px;
+    color: #555555;
+}
+
+.btn {
+    background-color: blue !important;
+    color: white !important;
+}
