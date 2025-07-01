@@ -2,7 +2,7 @@
 
 Questo progetto dimostra la creazione di una "card" in Figma, seguendo i principi dell'**Atomic Design** e le linee guida del **Material Design**, come illustrato nelle slide fornite. L'obiettivo era progettare una card visivamente pulita e coerente, pronta per essere riutilizzata.
 
-![Card di esempio: Ghost of Tsushima](../figma-card-react/public/card-figma.png)
+![Card di esempio: Ghost of Tsushima](./public/card-figma.png)
 
 ## Obiettivo del Progetto
 
